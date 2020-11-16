@@ -1,0 +1,15 @@
+.pagination{
+    width: 800px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:1px solid pink;
+    margin: 30px auto;
+}
+.hh3{
+    display: inline-block !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow:ellipsis !important;
+}
